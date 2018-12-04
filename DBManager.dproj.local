@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.143,=C:\Users\piotr\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.610,=C:\Users\piotr\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.723,C:\Users\piotr\Documents\RAD Studio\Projects\Unit1.pas=C:\Cisnet\Projekty\DBManager\MainForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.245,=C:\Users\piotr\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.830,=C:\Users\piotr\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.877,=C:\Cisnet\Projekty\DBManager\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.725,C:\Cisnet\Projekty\DBManager\Unit1.pas=C:\Cisnet\Projekty\DBManager\Compare.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.914,C:\Users\piotr\Documents\RAD Studio\Projects\Project1.dproj=C:\Cisnet\Projekty\DBManager\DBManager.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.723,C:\Users\piotr\Documents\RAD Studio\Projects\Unit1.dfm=C:\Cisnet\Projekty\DBManager\MainForm.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
